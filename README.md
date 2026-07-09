@@ -1,1 +1,1 @@
-feefjefjef
+I will building a keyboard - This Keyboard will be after a diffrent apporce towards a keyboard With the funtionaailty for efficenty. I have been wanting to build a keyboard for while and redesign the one that i have right now. But making it offical though this documents.
