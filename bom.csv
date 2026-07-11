@@ -1,0 +1,13 @@
+A mechanical keyboard designed around a circus "big top" theme.
+
+Design elements:
+- Case border alternates red and cream stripes, echoing a circus tent
+- 12 SK6812 MINI-E LEDs run around the case perimeter, set to a warm amber
+  "string light" color/animation to mimic incandescent bulbs
+- 0.91" OLED display shows a looping circus-themed animation (e.g. a
+  spinning ring or marquee text)
+- Rotary encoder is capped with a printed ring-shaped knob, used for
+  volume/media control
+- Blank white DSA keycaps keep the base clean; one novelty keycap
+  (hand-painted or 3D printed) adds a circus accent — e.g. a popcorn
+  bucket or ticket stub
